@@ -1,0 +1,13 @@
+{
+  "development": {
+    "username": "webapp",
+    "password": "123456",
+    "database": "webapp_db",
+    "host": "localhost",
+    "port": "5433",
+    "dialect": "postgres",
+    "modelsDir": "models",
+    "migrationsDir": "migrations",
+    "seedersDir": "seeders"
+  }
+}
